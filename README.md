@@ -27,30 +27,6 @@ I love working with modern JavaScript technologies, especially the **MERN Stack*
 
 ---
 
-### 🧠 Frontend Skills
-
-- React.js  
-- JavaScript 
-- TypeScript  
-- HTML5, CSS3  
-- Tailwind CSS  
-- Vite  
-- REST API Integration  
-
----
-
-### 🛠️ Backend & Database
-
-- Node.js  
-- Express.js  
-- MongoDB  
-- Mongoose  
-- REST API Architecture  
-- JWT Authentication  
-- MERN Stack Development  
-- SQL  
-
----
 
 ### 🚀 Tech Stack Badges
 
@@ -73,11 +49,4 @@ I love working with modern JavaScript technologies, especially the **MERN Stack*
 
 
 
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jubayerhasan75&theme=react-dark" />
-</p>
-
----
 
