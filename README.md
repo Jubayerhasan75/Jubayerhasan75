@@ -6,7 +6,7 @@
 I'm a passionate **Web Developer** focused on creating efficient, scalable and user friendly web applications.  
 I love working with modern JavaScript technologies, especially the **MERN Stack**.
 
--  Open to collaboration on **React.js & MERN Stack Projects**
+-  Open to collaboration on **MERN Stack Projects**
 -  Goal: To grow as a **Full Stack Developer**
 
 ---
