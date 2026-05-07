@@ -4,9 +4,9 @@
 ---
 
 I'm a passionate **Web Developer** focused on creating efficient, scalable and user friendly web applications.  
-I love working with modern JavaScript technologies, especially the **MERN Stack**.
+I love working with modern JavaScript technologies, especially the **MERN Stack**, and I am actively building dynamic backends using **PHP and Laravel**.
 
--  Open to collaboration on **MERN Stack Projects**
+-  Open to collaboration on **MERN Stack & PHP Projects**
 -  Goal: To grow as a **Full Stack Developer**
 
 ---
